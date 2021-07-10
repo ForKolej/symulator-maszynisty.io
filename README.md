@@ -1,0 +1,1 @@
+# symulator-maszynisty.io
